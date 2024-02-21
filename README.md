@@ -27,3 +27,6 @@
 ## 📝 links úteis
 - 🔗 O **texto da Monografia** está disponível no seguinte link: https://www.monografias.ufop.br/handle/35400000/6370
 - 🔗 O seguinte **guia de implementação** foi utilizado: https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html
+
+## 📩 contato
+- ✉️ Email: vitmariasb@yahoo.com
